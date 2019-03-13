@@ -1,4 +1,4 @@
-# Botley based business shortlisted for National Tech Awards.
+# Hampshire based business shortlisted for National Tech Awards.
 
 ---
 
@@ -9,7 +9,7 @@
 
 ---
 
-Local business GARNET8 Limited shortlisted for two National Technology Awards against household names (BT and  Sysdoc in Partnership with Jaguar Land Rover/  Mulesoft).
+Hampshire business GARNET8 Limited shortlisted for two National Technology Awards against household names (BT and  Sysdoc in Partnership with Jaguar Land Rover/  Mulesoft).
 
 GARNET8 have been shortlisted for Innovative Enterprise Product and Cloud Innovation of the year.
 

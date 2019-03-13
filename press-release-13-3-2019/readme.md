@@ -9,7 +9,7 @@
 
 ---
 
-Hampshire business GARNET8 Limited shortlisted for two National Technology Awards against household names (BT and  Sysdoc in Partnership with Jaguar Land Rover/  Mulesoft).
+Hampshire business GARNET8 Limited shortlisted for two National Technology Awards against household names (BT, Sysdoc in Partnership with Jaguar Land Rover and Mulesoft).
 
 GARNET8 have been shortlisted for Innovative Enterprise Product and Cloud Innovation of the year.
 

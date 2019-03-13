@@ -1,11 +1,11 @@
-# H1 Botley based business shortlisted for National Tech Awards.
+# Botley based business shortlisted for National Tech Awards.
 
 ---
 
-- .Innovative Botley based Tech start-up shortlisted for National Technology Awards.
-- .Shortlisted in categories for Cloud and Enterprise Innovation.
-- .Building on recent invitation by Elizabeth Truss MP to 11 Downing street for Business and GovTech Leaders.
-- .Local person, building local, innovative, tech business competing against household names.
+- Innovative Botley based Tech start-up shortlisted for National Technology Awards.
+- Shortlisted in categories for Cloud and Enterprise Innovation.
+- Building on recent invitation by Elizabeth Truss MP to 11 Downing street for Business and GovTech Leaders.
+- Local person, building local, innovative, tech business competing against household names.
 
 ---
 
